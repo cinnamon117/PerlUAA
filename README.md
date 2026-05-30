@@ -524,3 +524,7 @@ Entregar un archivo comprimido (`.zip` o `.tar.gz`) con:
 * Reportes generados.
 * Evidencias solicitadas.
 
+
+gh pr create --title "Your PR Title" --body "Your description here"
+
+
