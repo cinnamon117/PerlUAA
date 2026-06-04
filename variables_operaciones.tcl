@@ -1,4 +1,6 @@
 #!/usr/bin/tclsh
+#Actividad 2, Suarez, V.V.
+
 puts "Ingresa tu nombre: "
 set nombre  [gets stdin]
 

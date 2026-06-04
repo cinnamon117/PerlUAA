@@ -1,0 +1,9 @@
+=== REPORTE DEL SISTEMA ===
+Hostname: suarez-lm
+Kernel: 6.17.0-35-generic
+
+Memoria disponible:
+ 30Gi
+s
+Espacio libre en disco:
+ 45G

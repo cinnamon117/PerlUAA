@@ -1,0 +1,25 @@
+=====================
+ REPORTE DEL SISTEMA 
+=====================
+
+Equipo: suarez-lm
+Usuario: suarez_vv
+Fecha: 03-June-2026, 18:32:06
+Kernel: 6.17.0-35-generic
+
+Memoria disponible:
+               total       usado       libre  compartido   búf/caché  disponible
+Mem:            30Gi       4.0Gi        24Gi        26Mi       2.3Gi        26Gi
+Inter:         7.5Gi          0B       7.5Gi
+
+Espacio en disco:
+S.ficheros     Tamaño Usados  Disp Uso% Montado en
+tmpfs            3.1G   1.9M  3.1G   1% /run
+efivarfs         256K    46K  206K  18% /sys/firmware/efi/efivars
+/dev/nvme0n1p7    73G    25G   45G  36% /
+tmpfs             16G    16M   16G   1% /dev/shm
+tmpfs            5.0M    16K  5.0M   1% /run/lock
+tmpfs             16G      0   16G   0% /run/qemu
+/dev/nvme0n1p8   184G   148G   28G  85% /home
+/dev/nvme0n1p1   196M    38M  159M  20% /boot/efi
+tmpfs            3.1G   184K  3.1G   1% /run/user/1000
