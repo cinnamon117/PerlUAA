@@ -1,0 +1,1 @@
+echo 'puts "Hola mundo desde TCL"' > hola.tcl
