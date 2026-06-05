@@ -1,0 +1,25 @@
+================================
+ REPORTE DEL SISTEMA
+================================
+
+Equipo: paoots
+Usuario: paola
+Fecha: 2026-06-04 05:34:41
+Kernel: 6.8.0-124-generic
+
+Memoria disponible:
+               total        used        free      shared  buff/cache   available
+Mem:           3,8Gi       1,1Gi       2,0Gi        65Mi       934Mi       2,7Gi
+Swap:          3,8Gi          0B       3,8Gi
+
+Espacio en disco:
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              391M  1,7M  389M   1% /run
+efivarfs                           256K   35K  222K  14% /sys/firmware/efi/efivars
+/dev/mapper/ubuntu--vg-ubuntu--lv   19G   14G  3,3G  81% /
+tmpfs                              2,0G     0  2,0G   0% /dev/shm
+tmpfs                              5,0M  8,0K  5,0M   1% /run/lock
+/dev/vda2                          2,0G  210M  1,6G  12% /boot
+/dev/vda1                          1,1G  6,4M  1,1G   1% /boot/efi
+tmpfs                              391M  116K  391M   1% /run/user/1000
+
