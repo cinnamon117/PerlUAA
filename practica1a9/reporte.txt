@@ -1,0 +1,15 @@
+===== REPORTE DEL SISTEMA =====
+
+Hostname:
+Ubuntu
+
+Kernel:
+7.0.0-22-generic
+
+Memoria disponible:
+Mem:           3.3Gi       2.4Gi       303Mi       104Mi       953Mi       931Mi
+
+Espacio libre en disco:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        40G  7.4G   30G  20% /
+
