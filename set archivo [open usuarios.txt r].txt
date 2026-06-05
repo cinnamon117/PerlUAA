@@ -1,0 +1,20 @@
+set archivo [open "usuarios.txt" r]
+
+set contenido [read $archivo]
+
+close $archivo
+
+set lineas [split [string trim $contenido] "\n"]
+
+set contador 0
+
+puts "Lista de usuarios"
+puts "-----------------"
+
+foreach usuario $lineas {
+    incr contador
+    puts "$contador. $usuario"
+}
+
+puts ""
+puts "Total: $contador Usuarios"
